@@ -13,7 +13,9 @@
     - Eğer eklenen müşteriye gelen maili müşteri onaylarsa sadece şifre girerek sisteme kayıt olabilir(eposta doğrulaması yok)
     - Eğer bir müşteri daha önceden eklenmiş bir müşterinin epostasını sisteme eklerse sistem sadece müşteriyi ekliyen müşterinin müşterisi olarak atar.
   - Yetkilendirme Sistemi
-  
+##Extra
+- Kişi ekleme ekranında tür seçerek eklenen kişilere özel roller tanımlanabilir ve bazı kişilerin resimleri eklenebilirken bazılarının eklenmesine greek olmuyabilir. Not rol tanımları için extra tablo gereklidir.
+- Rola bağlı çoklu kullanıcı ekleme
 
 ##Önemi?
 - Many to many rules
