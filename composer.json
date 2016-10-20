@@ -1,0 +1,6 @@
+{
+    "require": {
+        "eventviva/php-image-resize": "1.5.*",
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
